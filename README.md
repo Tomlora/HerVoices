@@ -37,5 +37,6 @@ __Pitch Deck__ correspond à la présentation à la fin du projet
 ### Fichier sources
 
 Les dossiers __java/de/vogella/android/sqlite/hervoices__ correspondent aux fichiers sources.
+
 Les ressources __res__ correspondent aux autres ressources du projet, comme les images, les designs et le thème de l'application
  
