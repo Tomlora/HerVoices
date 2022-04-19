@@ -27,6 +27,8 @@ Pour faciliter la recherche, l'application dispose d'un système de tag qui perm
  
  Par conséquent, cette application n'est pas destinée à être mise sur le marché. En revanche, il nous tenait à coeur de présenter un prototype fonctionnelle durant notre soutenance. Les fonctionnalités présentées ici sont donc disponibles.
  
+ Le prototype est réalisé en __Java__, avec une connexion et des requêtes __SQL__ locales pour le stockage des utilisateurs.
+ 
  ## Contenu du github
  
  ### PDF
