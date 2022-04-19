@@ -23,8 +23,9 @@ Pour faciliter la recherche, l'application dispose d'un système de tag qui perm
 </p>
  
  
- Ce projet a été réalisé dans le cadre d'un cours de Master 2. Par conséquent, cette application n'est pas destinée à être mise sur le marché.
- En revanche, les fonctionnalités présentées ici sont disponibles.
+ Ce projet a été réalisé dans le cadre d'un cours de Master 2. 
+ 
+ Par conséquent, cette application n'est pas destinée à être mise sur le marché. En revanche, il nous tenait à coeur de présenter un prototype fonctionnelle durant notre soutenance. Les fonctionnalités présentées ici sont donc disponibles.
  
  ## Contenu du github
  
