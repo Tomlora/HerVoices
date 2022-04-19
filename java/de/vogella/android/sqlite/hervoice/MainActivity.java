@@ -63,18 +63,18 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void AddUsersAutomatique(View view) { // Création de 12 faux profils
-        BDD_Utilisateurs.insertContact("Sophie","123456", "Intervenante","Paris","Experte","kevin.gauchey@hotmail.fr", "Economie", R.drawable.profilf1);
-        BDD_Utilisateurs.insertContact("Marie","123456", "Intervenante","Paris","Avocate","kevin.gauchey@hotmail.fr", "Politique", R.drawable.profilf2);
-        BDD_Utilisateurs.insertContact("Karima","123456", "Intervenante","Paris","Chercheuse","kevin.gauchey@hotmail.fr", "Economie, Politique", R.drawable.profilf1);
-        BDD_Utilisateurs.insertContact("Cosette","123456", "Intervenante","Paris","Avocate","kevin.gauchey@hotmail.fr", "Criminologie, Droit", R.drawable.profilf2);
-        BDD_Utilisateurs.insertContact("Julie","123456", "Intervenante","Paris","Entrepreneuse","kevin.gauchey@hotmail.fr", "Sociologie", R.drawable.profilf1);
-        BDD_Utilisateurs.insertContact("Brigitte","123456", "Intervenante","Paris","Entrepreneuse","kevin.gauchey@hotmail.fr", "Ecologie, Politique", R.drawable.profilf2);
-        BDD_Utilisateurs.insertContact("Radio Bordeaux","123456", "Media","Paris","Aucune description","kevin.gauchey@hotmail.fr", "Radio locale", R.drawable.radio);
-        BDD_Utilisateurs.insertContact("BFR","123456", "Media","Paris","Aucune description","kevin.gauchey@hotmail.fr", "Chaine télévision",R.drawable.tv);
-        BDD_Utilisateurs.insertContact("LCR","123456", "Media","Paris","Aucune description","kevin.gauchey@hotmail.fr", "Radio locale",R.drawable.radio);
-        BDD_Utilisateurs.insertContact("KNews","123456", "Media","Paris","Aucune description","kevin.gauchey@hotmail.fr", "Chaine télévision",R.drawable.tv);
-        BDD_Utilisateurs.insertContact("FranceEssonne","123456", "Media","Paris","Aucune description","kevin.gauchey@hotmail.fr", "Radio locale",R.drawable.radio);
-        BDD_Utilisateurs.insertContact("Jupiter","123456", "Media","Paris","Aucune description","kevin.gauchey@hotmail.fr", "Presse papier",R.drawable.presse_papier);
+        BDD_Utilisateurs.insertContact("Sophie","123456", "Intervenante","Paris","Experte","kevin@hotmail.fr", "Economie", R.drawable.profilf1);
+        BDD_Utilisateurs.insertContact("Marie","123456", "Intervenante","Paris","Avocate","kevin@hotmail.fr", "Politique", R.drawable.profilf2);
+        BDD_Utilisateurs.insertContact("Karima","123456", "Intervenante","Paris","Chercheuse","kevin@hotmail.fr", "Economie, Politique", R.drawable.profilf1);
+        BDD_Utilisateurs.insertContact("Cosette","123456", "Intervenante","Paris","Avocate","kevin@hotmail.fr", "Criminologie, Droit", R.drawable.profilf2);
+        BDD_Utilisateurs.insertContact("Julie","123456", "Intervenante","Paris","Entrepreneuse","kevin@hotmail.fr", "Sociologie", R.drawable.profilf1);
+        BDD_Utilisateurs.insertContact("Brigitte","123456", "Intervenante","Paris","Entrepreneuse","kevin@hotmail.fr", "Ecologie, Politique", R.drawable.profilf2);
+        BDD_Utilisateurs.insertContact("Radio Bordeaux","123456", "Media","Paris","Aucune description","kevin@hotmail.fr", "Radio locale", R.drawable.radio);
+        BDD_Utilisateurs.insertContact("BFR","123456", "Media","Paris","Aucune description","kevin@hotmail.fr", "Chaine télévision",R.drawable.tv);
+        BDD_Utilisateurs.insertContact("LCR","123456", "Media","Paris","Aucune description","kevin@hotmail.fr", "Radio locale",R.drawable.radio);
+        BDD_Utilisateurs.insertContact("KNews","123456", "Media","Paris","Aucune description","kevin@hotmail.fr", "Chaine télévision",R.drawable.tv);
+        BDD_Utilisateurs.insertContact("FranceEssonne","123456", "Media","Paris","Aucune description","kevin.@hotmail.fr", "Radio locale",R.drawable.radio);
+        BDD_Utilisateurs.insertContact("Jupiter","123456", "Media","Paris","Aucune description","kevin@hotmail.fr", "Presse papier",R.drawable.presse_papier);
 
         Nb_inscrits.setText("Il y a " + BDD_Utilisateurs.numberOfRows() + " membres inscrits"); // Nombre d'inscrits
 
