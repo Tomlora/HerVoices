@@ -22,3 +22,19 @@ Pour faciliter la recherche, l'application dispose d'un système de tag qui perm
   <img width="424" height="863" src="https://github.com/Tomlora/HerVoices/blob/main/appli.jpg?raw=true">
 </p>
  
+ 
+ Ce projet a été réalisé dans le cadre d'un cours de Master 2. Par conséquent, cette application n'est pas destinée à être mise sur le marché.
+ En revanche, les fonctionnalités présentées ici sont disponibles.
+ 
+ ## Contenu du github
+ 
+ ### PDF
+ 
+__Presentation Projet__ correspond à la présentation en début de projet
+__Pitch Deck__ correspond à la présentation à la fin du projet
+
+### Fichier sources
+
+Les dossiers __java/de/vogella/android/sqlite/hervoices__ correspondent aux fichiers sources.
+Les ressources __res__ correspondent aux autres ressources du projet, comme les images, les designs et le thème de l'application
+ 
