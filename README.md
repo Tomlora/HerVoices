@@ -31,6 +31,7 @@ Pour faciliter la recherche, l'application dispose d'un système de tag qui perm
  ### PDF
  
 __Presentation Projet__ correspond à la présentation en début de projet
+
 __Pitch Deck__ correspond à la présentation à la fin du projet
 
 ### Fichier sources
